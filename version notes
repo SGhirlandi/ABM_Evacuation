@@ -1,0 +1,9 @@
+BME.1.3 - importing excel floorplan successful 
+BME.1.4 - agents move to signs, obstacles still transparant
+BME.1.5.1 - 38 % percentage activated agents
+BME.1.5.2 - non-activated agents are activated by active agents within vision 
+BME.1.5.3 - n % toxicated agents are introduced and vision is halved for toxicated agents 
+
+
+
+https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
