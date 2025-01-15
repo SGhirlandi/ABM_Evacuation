@@ -4,9 +4,7 @@ BME.1.5.1 - 38 % percentage activated agents
 BME.1.5.2 - non-activated agents are activated by active agents within vision 
 BME.1.5.3 - n % intoxicated agents are introduced and vision is halved for intoxicated agents 
 BME.1.5.4 - intoxicated agents need three activated agents within vision before they get activated, while non-intoxicated only need one
-BME.1.6 - signs with direction?
+BME.1.6 - The agent remembers signs and only goes to the signs they haven't touched yet. [Hopefully, this leads to a path to the exit for floorplan_C. However, vision is in general too low to make it work yet, especially for intoxicated agents.]
 
 
 https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
-
-Now I would like to change the signs into signs with direction. When the agent steps on a sign it will therefore go walk into the direction the sign is pointing to, until it either finds another exit or sign. The priorities of action are now: nearest exit; nearest sign; walk in the direction the sign was pointing to; walk randomly. Hence, when it cannot walk any further and does not find any exit or a new sign it starts to move randomly again. 
