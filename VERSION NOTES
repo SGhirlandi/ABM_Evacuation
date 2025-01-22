@@ -9,6 +9,6 @@ BME.1.7—Agents cannot look through high obstacles. Also, low obstacles are add
 BME.1.7.1 - Sensitivity analysis is added.
 BME 1.8 First try of batch running graph plotting exit times
 BME.1.7.3 - second try of adding a batch runner
-BME.1.7.4 - adding extra metrics to data collection such as density
+BME.1.7.4 - density and percentage exited added to data collection as metrics
 
 https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
