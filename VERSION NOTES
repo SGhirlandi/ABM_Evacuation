@@ -8,5 +8,7 @@ BME.1.6 - The agent remembers signs and only goes to the signs they haven't touc
 BME.1.7—Agents cannot look through high obstacles. Also, low obstacles are added, and the Excel map clarity is increased. 
 BME.1.7.1 - Sensitivity analysis is added.
 BME 1.8 First try of batch running graph plotting exit times
+BME.1.7.3 - second try of adding a batch runner
+BME.1.7.4 - adding extra metrics to data collection such as density
 
 https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
