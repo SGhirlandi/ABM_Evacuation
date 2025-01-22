@@ -7,5 +7,6 @@ BME.1.5.4 - intoxicated agents need three activated agents within vision before 
 BME.1.6 - The agent remembers signs and only goes to the signs they haven't touched yet. [Hopefully, this leads to a path to the exit for floorplan_C. However, vision is in general too low to make it work yet, especially for intoxicated agents.]
 BME.1.7—Agents cannot look through high obstacles. Also, low obstacles are added, and the Excel map clarity is increased. 
 BME.1.7.1 - Sensitivity analysis is added.
+BME 1.8 First try of batch running graph plotting exit times
 
 https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
