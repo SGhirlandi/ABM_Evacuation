@@ -11,5 +11,6 @@ BME 1.8 First try of batch running graph plotting exit times
 BME.1.7.3 - second try of adding a batch runner
 BME.1.7.4 - density and percentage exited added to data collection as metrics
 BME.1.7.5 - batch runner made for every intervention. It now also incorporates exit count per exit.
+BME.1.7.6 - Version includes plotting of results
 
 https://mesa.readthedocs.io/stable/tutorials/intro_tutorial.html
